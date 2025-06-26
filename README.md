@@ -1,6 +1,6 @@
-# Mi Página Personal GitHub
+# Web Iniciativa Polímetro
 
-Página de inicio para mostrar mis proyectos. Edita el archivo `index.html` para actualizar contenido.
+Home para para mostrar proyectos.
 
 ---
 
@@ -11,7 +11,7 @@ Página de inicio para mostrar mis proyectos. Edita el archivo `index.html` para
 git clone https://github.com/Inpolimetro/Inpolimetro.github.io.git
 cd Inpolimetro.github.io
 
-### 2. **Antes de editar (actualiza local)**
+### 2. **Antes de editar**
 
 git pull origin main
 
