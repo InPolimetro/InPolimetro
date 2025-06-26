@@ -4,7 +4,7 @@ Home para para mostrar proyectos.
 
 ---
 
-## 🛠 Instrucciones de Trabajo Diario
+## 🛠 Recordatorio de Trabajo Diario
 
 ### 1. **Configuración inicial**
 
