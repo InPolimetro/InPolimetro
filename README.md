@@ -1,16 +1,21 @@
-## Hi there 👋
+# Mi Página Personal GitHub
 
-<!--
-**InPolimetro/InPolimetro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Página de inicio para mostrar mis proyectos. Edita el archivo `index.html` para actualizar contenido.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Instrucciones de Trabajo Diario
+
+### 1. **Configuración inicial**
+
+git clone https://github.com/Inpolimetro/Inpolimetro.github.io.git
+cd Inpolimetro.github.io
+
+### 2. **Antes de editar (actualiza local)**
+
+git pull origin main
+
+### 3. **Subir cambios a GitHub**
+git add .
+git commit -m "Descripción de los cambios"
+git push origin main
